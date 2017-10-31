@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel Game.Plugins", "Voxel Game.Plugins.csproj", "{99EA1F1B-851F-2BFB-1F8A-C304D39D87FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel Game", "Voxel Game.csproj", "{CF2EEDB1-B7C7-1104-C35B-9762F0FA90CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voxel Game.Editor.Plugins", "Voxel Game.Editor.Plugins.csproj", "{1F2E2909-6756-8959-E614-EFAAC8EE9D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99EA1F1B-851F-2BFB-1F8A-C304D39D87FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EA1F1B-851F-2BFB-1F8A-C304D39D87FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EA1F1B-851F-2BFB-1F8A-C304D39D87FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EA1F1B-851F-2BFB-1F8A-C304D39D87FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2EEDB1-B7C7-1104-C35B-9762F0FA90CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2EEDB1-B7C7-1104-C35B-9762F0FA90CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2EEDB1-B7C7-1104-C35B-9762F0FA90CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2EEDB1-B7C7-1104-C35B-9762F0FA90CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2E2909-6756-8959-E614-EFAAC8EE9D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2E2909-6756-8959-E614-EFAAC8EE9D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2E2909-6756-8959-E614-EFAAC8EE9D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2E2909-6756-8959-E614-EFAAC8EE9D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
